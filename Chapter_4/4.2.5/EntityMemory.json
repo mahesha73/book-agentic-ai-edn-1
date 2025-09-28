@@ -1,0 +1,17 @@
+{
+  "entities": {
+  "photosynthesis": {
+    "definition": "the process by which plants convert sunlight into energy",
+    "status": "steps requested"
+  },
+  "plants": {
+    "role": "perform photosynthesis"
+   },
+  "sunlight": {
+    "role": "energy source"
+    },
+  "energy": {
+    "context": "output of photosynthesis"
+  }
+  }
+}
